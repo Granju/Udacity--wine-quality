@@ -1,29 +1,13 @@
 # Project Name
-Outline a brief description of your project. Live demo here.
-
-## Table of Contents
-General Info
-Technologies Used
-Features
-Screenshots
-Setup
-Usage
-Project Status
-Room for Improvement
-Acknowledgements
-Contact
+This project is related to my first data science blog post, written as part of my Udacity data science nanodegree education. The blog post can be found [here](https://medium.com/@julienflandre/can-robots-be-sommeliers-cf8134302680). The project consists in analysing data about red and white Vinho Verde wines and building a machine learning algorithm to class wines by quality level.
 
 ## General Information
-Provide general information about your project here.
-What problem does it (intend to) solve?
-What is the purpose of your project?
-Why did you undertake it?
+This repository contains the two original csv files used for the analysis and the Jupyter Notebook with the code to follow along the process.
+
+I start by stacking the two datasets into one by adding a style column to differentiate the red and white wines. I then run some exploratory data analysis to get familiar with the dataset. 
 
 ## Technologies Used
-Tech 1 - version 1.0
-Tech 2 - version 2.0
-Tech 3 - version 3.0
-
+Python 3.9.7
 
 ## Features
 List the ready features here:
